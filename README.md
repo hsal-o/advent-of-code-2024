@@ -1,2 +1,10 @@
-# advent-of-code-2024
- 
+# Advent of Code 2024
+This repository houses all my solutions to Advent of Code 2024.
+>All solutions are written in Python.
+
+| Day   | Completion |
+| :---  |  ----:   |
+| Day01 | ⭐⭐ |
+
+To-Do:
+Make README prettier to look at this year unlike last
