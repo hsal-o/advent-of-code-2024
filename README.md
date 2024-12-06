@@ -5,6 +5,7 @@ This repository houses all my solutions to Advent of Code 2024.
 | Day   | Completion |
 | :---  |  ----:   |
 | Day01 | ⭐⭐ |
+| Day02 | ⭐⭐ |
 
 To-Do:
 Make README prettier to look at this year unlike last
